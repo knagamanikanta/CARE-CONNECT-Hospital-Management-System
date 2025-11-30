@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CARE CONNECT HMS",
+  "description": "A production-ready, full-stack capable Hospital Management System frontend with comprehensive dashboards for Patients, Doctors, and Admins. Features include appointment booking, RBAC authentication, simulated payments, and AI-powered health assistance.",
+  "requestFramePermissions": []
+}
